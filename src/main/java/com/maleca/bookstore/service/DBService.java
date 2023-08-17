@@ -28,10 +28,10 @@ public class DBService {
 				//Instanciacao de Livros
 				Livro l1 = new Livro(null, "Clean code", "Robert Mart", "Lorem epsum", cat1);
 				Livro l2 = new Livro(null, "Codigo limpo", "Roberto Maleca", "Lorem epsum", cat1);
-				Livro l3 = new Livro(null, "Portugues", "Alfredo Maleca", "Lorem epsum", cat2);
+				Livro l3 = new Livro(null, "Portugues", "Alfredo Maleca", "Lorem epsum", cat1);
 				Livro l4 = new Livro(null, "Portugues", "Alfredo Maleca", "Lorem epsum", cat2);
-				Livro l5 = new Livro(null, "Portugues", "Alfredo Maleca", "Lorem epsum", cat1);
-				Livro l6 = new Livro(null, "Portugues", "Alfredo Maleca", "Lorem epsum", cat2);
+				Livro l5 = new Livro(null, "Portugues", "Alfredo Maleca", "Lorem epsum", cat2);
+				Livro l6 = new Livro(null, "Portugues", "Alfredo Maleca", "Lorem epsum", cat3);
 				Livro l7 = new Livro(null, "Portugues", "Alfredo Maleca", "Lorem epsum", cat3);
 				
 				
